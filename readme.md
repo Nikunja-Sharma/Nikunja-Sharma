@@ -12,10 +12,17 @@
 
 ## 🚀 About Me
 - 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technologies you're learning]**
+- 🌱 I'm currently learning:
+  
+  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+  ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
+
 - 👯 I'm looking to collaborate on **Open Source Projects**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **[Something interesting about you]**
+- 📫 How to reach me: **contactme@nikunja.online**
+- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
 
 ## 🛠️ Tech Stack
 
@@ -50,7 +57,7 @@
   <a href="https://twitter.com/your-twitter" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:contactme@nikunja.online">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
 </div>
