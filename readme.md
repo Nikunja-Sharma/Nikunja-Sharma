@@ -11,7 +11,7 @@
 <br/>
 
 ## 🚀 About Me
-- 🔭 I'm currently working on **[Your Current Project]**
+- 🔭 I'm currently working on **Multiple Projects**
 - 🌱 I'm currently learning:
   
   ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
