@@ -21,7 +21,7 @@
   ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
 
 - 👯 I'm looking to collaborate on **Open Source Projects**
-- 📫 How to reach me: **contactme@nikunja.cloud**
+- 📫 How to reach me: **hi@nikunja.cloud**
 - ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
 
 ## 🛠️ Tech Stack
